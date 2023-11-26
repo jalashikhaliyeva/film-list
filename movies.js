@@ -16,13 +16,7 @@ const data = {
         "Type": "movie",
         "Poster": "https://m.media-amazon.com/images/M/MV5BNjc4NmQyNGUtMDg4NS00ZTZkLWI3ODQtMGJmYThiYjQxNGRiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
       },
-      {
-        "Title": "El Camino: A Breaking Bad Movie",
-        "Year": "2019",
-        "imdbID": "tt9243946",
-        "Type": "movie",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg"
-      },
+
       {
         "Title": "Scary Movie",
         "Year": "2000",
@@ -71,7 +65,14 @@ const data = {
         "imdbID": "tt0362120",
         "Type": "movie",
         "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg"
-      }
+      },
+      {
+        "Title": "El Camino: A Breaking Bad Movie",
+        "Year": "2019",
+        "imdbID": "tt9243946",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg"
+      },
     ],
     "totalResults": "5845",
     "Response": "True"
