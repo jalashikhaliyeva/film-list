@@ -85,9 +85,9 @@ const newData = data["Search"].map((item) => {
     // console.log(item.Year);
     // console.log(item);
     return `    
-    <div class="card "> 
+    <div class="card" > 
     <div  class="card-img-left">
-    <img src="${item.Poster}" />  
+    <img src="${item.Poster}"   />  
     </div>     
     <div class="card-body">
     <h5 class="card-title">${item.Title}</h5>
@@ -95,7 +95,7 @@ const newData = data["Search"].map((item) => {
     <p class="card-text">${item.Year}</p>    
     <p class="card-text">${item.imdbID}</p>    
     </div> 
-
+    
     
     
     </div>
